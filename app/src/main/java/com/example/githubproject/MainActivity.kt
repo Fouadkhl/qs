@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
         print("this line will be merged")
         print("hollla from your friends")
         print("thank you git")
+        print("thank you ")
 
     }
 }
