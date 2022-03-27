@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         print("this is form the the final change")
         print("this is the final merge change 2")
         print("this line will be merged")
+        print("hollla from your friends")
 
     }
 }
