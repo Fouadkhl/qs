@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        print("this is contained in my second commit ")
-         this is error
+
+        print("this is form the master")
     }
 }
