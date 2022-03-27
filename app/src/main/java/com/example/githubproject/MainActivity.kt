@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        print("this is form the third branch")
+        print("this is the final merge change 2")
         print("this line will be merged")
     }
 }
