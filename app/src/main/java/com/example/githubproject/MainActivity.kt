@@ -9,7 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-
-        print(" this is an experemental inside branch")
+        print("this is form the exprimental")
     }
 }
