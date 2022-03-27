@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        print("this is form the master")
+        print("this is form the exprimental")
     }
 }
