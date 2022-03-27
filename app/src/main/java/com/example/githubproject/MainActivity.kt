@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
 
         print("this is form the third branch")
+        print("this line will be merged")
     }
 }
